@@ -26,7 +26,5 @@ class Solution {
             right++;
         }
         return ans;
-        
-
     }
 }
